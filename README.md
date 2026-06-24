@@ -1,6 +1,5 @@
 
 # Hi 👋 I am locustbaby! 
-I am a SRE at Zilliz, where I specialize in Cloud, Devops, Site Reliability.
 
 - 🌐 Visit my [portfolio website](https://locustbaby.github.io/) for more information and to get in touch.
 - 👋 Check out my personal [blog](https://locustbaby.github.io/) for articles and insights.
